@@ -1,0 +1,15 @@
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\bin\Debug\net8.0\AppConsol1.exe
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\bin\Debug\net8.0\AppConsol1.deps.json
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\bin\Debug\net8.0\AppConsol1.runtimeconfig.json
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\bin\Debug\net8.0\AppConsol1.dll
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\bin\Debug\net8.0\AppConsol1.pdb
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.AssemblyInfo.cs
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.sourcelink.json
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.dll
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\refint\AppConsol1.dll
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.pdb
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\AppConsol1.genruntimeconfig.cache
+C:\Users\salak301\Desktop\Tomas_Zuluaga_Productos\AppConsol1\obj\Debug\net8.0\ref\AppConsol1.dll
